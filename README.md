@@ -59,6 +59,14 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Circuit Diagram
 
